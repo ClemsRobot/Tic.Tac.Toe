@@ -3,6 +3,6 @@
 Ceci est un Tic Tac Toe réalisé en Ruby
 Requiert la gem "colorize"
 
-Pour l'installer effectuer la commande suivante : ''' sudo gem install colorize '''
+Pour l'installer effectuer la commande suivante : <code> sudo gem install colorize </code>
 
-<code> Et lancer le fichier " Tic Tac Toe " </code>
+Et lancer le fichier TicTacT.rb avec la commande <code> ruby TicTacT.rb </code> 
