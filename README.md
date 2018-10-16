@@ -4,3 +4,5 @@ Ceci est un Tic Tac Toe réalisé en Ruby
 Requiert la gem "colorize"
 
 Pour l'installer effectuer la commande suivante : ''' sudo gem install colorize '''
+
+<code> Et lancer le fichier " Tic Tac Toe " </code>
